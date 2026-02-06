@@ -1,0 +1,39 @@
+site_name: 上海交通大学计算机学院
+site_author: MeowmeowHammer
+theme:
+  name: material
+  features:
+    - header.autohide
+    - navigation.tracking
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.annotate
+  palette:
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: red
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+
+nav:
+  - INTRODUCTION: "index.md"
+  - COLLEGES:
+    - 计算机科学与技术: "colleges/Com_Sci.md"
+    - 软件工程: "colleges/So_Eng.md"
+    - 信息安全: "colleges/Cy_se.md"
+  - FEELINGS:
+    - 学习: "feelings/stu.md"
+    - 生活: "feelings/live.md"
