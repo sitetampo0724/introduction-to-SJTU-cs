@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11e21305-f881-474b-99f5-0098b99054cf" name="Changes" comment="second commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/mkdocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/MeowmeowHammer/mkdocs.yml" afterDir="false" />
-    </list>
+    <list default="true" id="11e21305-f881-474b-99f5-0098b99054cf" name="Changes" comment="for optimization" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +73,7 @@
       <workItem from="1770090789098" duration="3953000" />
       <workItem from="1770346183065" duration="4413000" />
       <workItem from="1770350953043" duration="1760000" />
-      <workItem from="1770355554271" duration="2976000" />
+      <workItem from="1770355554271" duration="3467000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -94,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770356459411</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="for optimization">
+      <option name="closed" value="true" />
+      <created>1770358793767</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770358793767</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +119,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="for optimization" />
+    <option name="LAST_COMMIT_MESSAGE" value="for optimization" />
   </component>
 </project>
