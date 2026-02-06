@@ -1,7 +1,14 @@
 site_name: 上海交通大学计算机学院
 site_author: MeowmeowHammer
+
+repo_name: introduction-to-SJTU-cs
+repo_url: https://github.com/sitetampo0724/introduction-to-SJTU-cs.git
+
+copyright: Copyright &copy; 2026-present <a href="https://sitetampo0724" target="_blank" rel="noopener noreferrer">MeowmeowHammer</a>
+
 theme:
   name: material
+  language: zh
   features:
     - header.autohide
     - navigation.tracking
@@ -27,6 +34,21 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
+  font:
+    text: Roboto Slab
+    code: Roboto Mono
+
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/sitetampo0724/introduction-to-SJTU-cs/
+    - icon: fontawesome/solid/envelope
+      link: mailto:19705026518@163.com
+  analytics:
+    provider: google
+    property: G-KJB4RXSKZG
 
 nav:
   - INTRODUCTION: "index.md"
