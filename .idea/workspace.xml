@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11e21305-f881-474b-99f5-0098b99054cf" name="Changes" comment="website first" />
+    <list default="true" id="11e21305-f881-474b-99f5-0098b99054cf" name="Changes" comment="website 5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/docs/colleges/Com_Sci.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/docs/colleges/Cy_se.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/docs/colleges/So_Eng.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/docs/feelings/img/bao.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/docs/feelings/img/classes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/docs/feelings/img/credits.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/docs/feelings/img/zhu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/docs/feelings/live.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/docs/feelings/stu.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/docs/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/mkdocs.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/requirements.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +88,7 @@
       <workItem from="1770090789098" duration="3953000" />
       <workItem from="1770346183065" duration="4413000" />
       <workItem from="1770350953043" duration="1760000" />
-      <workItem from="1770355554271" duration="3889000" />
+      <workItem from="1770355554271" duration="5755000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -107,7 +122,47 @@
       <option name="project" value="LOCAL" />
       <updated>1770359142274</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="website second">
+      <option name="closed" value="true" />
+      <created>1770359572555</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770359572555</updated>
+    </task>
+    <task id="LOCAL-00006" summary="website third">
+      <option name="closed" value="true" />
+      <created>1770359840986</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770359840986</updated>
+    </task>
+    <task id="LOCAL-00007" summary="website 4">
+      <option name="closed" value="true" />
+      <created>1770360777633</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770360777633</updated>
+    </task>
+    <task id="LOCAL-00008" summary="website 5">
+      <option name="closed" value="true" />
+      <created>1770360903158</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770360903158</updated>
+    </task>
+    <task id="LOCAL-00009" summary="website 5">
+      <option name="closed" value="true" />
+      <created>1770361104404</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1770361104404</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +184,10 @@
     <MESSAGE value="second commit" />
     <MESSAGE value="for optimization" />
     <MESSAGE value="website first" />
-    <option name="LAST_COMMIT_MESSAGE" value="website first" />
+    <MESSAGE value="website second" />
+    <MESSAGE value="website third" />
+    <MESSAGE value="website 4" />
+    <MESSAGE value="website 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="website 5" />
   </component>
 </project>
