@@ -4,21 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11e21305-f881-474b-99f5-0098b99054cf" name="Changes" comment="website 5">
+    <list default="true" id="11e21305-f881-474b-99f5-0098b99054cf" name="Changes" comment="new era">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/docs/colleges/Com_Sci.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/docs/colleges/Cy_se.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/docs/colleges/So_Eng.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/docs/feelings/img/bao.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/docs/feelings/img/classes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/docs/feelings/img/credits.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/docs/feelings/img/zhu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/docs/feelings/live.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/docs/feelings/stu.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/docs/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/mkdocs.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MeowmeowHammer/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/colleges/Com_Sci.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/colleges/Com_Sci.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/colleges/Cy_se.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/colleges/Cy_se.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/colleges/So_Eng.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/colleges/So_Eng.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,18 +18,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sitetampo0724"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sitetampo0724&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sitetampo0724/introduction-to-SJTU-cs.git",
-    "accountId": "f1d1b2a0-8c53-4dec-bdc6-ef37c03f21a3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:sitetampo0724/introduction-to-SJTU-cs.git&quot;,
+    &quot;accountId&quot;: &quot;f1d1b2a0-8c53-4dec-bdc6-ef37c03f21a3&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 1
@@ -89,6 +79,8 @@
       <workItem from="1770346183065" duration="4413000" />
       <workItem from="1770350953043" duration="1760000" />
       <workItem from="1770355554271" duration="5755000" />
+      <workItem from="1770361377379" duration="909000" />
+      <workItem from="1770526775988" duration="612000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -162,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770361104404</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="new era">
+      <option name="closed" value="true" />
+      <created>1770361410804</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1770361410804</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +188,7 @@
     <MESSAGE value="website third" />
     <MESSAGE value="website 4" />
     <MESSAGE value="website 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="website 5" />
+    <MESSAGE value="new era" />
+    <option name="LAST_COMMIT_MESSAGE" value="new era" />
   </component>
 </project>
